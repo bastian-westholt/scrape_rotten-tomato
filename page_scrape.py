@@ -23,3 +23,5 @@ for element in media_infos:
         print(text.split())
         text = ' '.join(text.split())
         print(text)
+
+print()
